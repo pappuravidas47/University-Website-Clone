@@ -3,9 +3,6 @@
 A modern and responsive **University Website UI Clone** built using HTML, CSS, and JavaScript.
 This project represents an educational institute landing page including sections like About, Academics, Campus Life, FAQ, and Contact.
 
-🔗 **Live Website:**
-https://YOUR-USERNAME.github.io/University-Website-Clone/
-
 ---
 
 ## 📌 Features
