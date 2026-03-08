@@ -77,4 +77,4 @@ Aspiring Frontend Developer
 
 ## ⭐ Support
 
-If you like this project, please give it a **star ⭐** on GitHub.
+If you like this project, please give it a **star ⭐** on GitHub !
